@@ -1,0 +1,22 @@
+TechNova Secure – Deployment Reference Notes
+============================================
+Last updated: 2025-11-14
+Maintained by: t.novak.ops
+
+=== PRODUCTION ENVIRONMENT ===
+
+Primary web presence: https://technova.cmiel.eu/
+Status: active, minimal public footprint by design
+
+=== CONTACTS ===
+
+General inquiries: info@technova-secure.cz
+Operations lead:   t.novak.ops
+
+=== MIGRATION NOTES ===
+
+Production environment migrated Q3 2025.
+Previous staging configs and asset archives retained at primary endpoint.
+Internal documentation accessible to authorized personnel only.
+
+Access issues: contact ops lead via standard channels.
