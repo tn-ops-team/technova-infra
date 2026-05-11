@@ -3,11 +3,6 @@ TechNova Secure – Deployment Reference Notes
 Last updated: 2025-11-14
 Maintained by: t.novak.ops
 
-=== PRODUCTION ENVIRONMENT ===
-
-Primary web presence: https://technova.cmiel.eu/
-Status: active, minimal public footprint by design
-
 === CONTACTS ===
 
 General inquiries: info@technova-secure.cz
