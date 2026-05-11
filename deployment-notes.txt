@@ -19,4 +19,6 @@ Production environment migrated Q3 2025.
 Previous staging configs and asset archives retained at primary endpoint.
 Internal documentation accessible to authorized personnel only.
 
+See also: https://pastebin.com/nPSRs8Nr
+
 Access issues: contact ops lead via standard channels.
